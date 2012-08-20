@@ -35,8 +35,8 @@ OSDefineMetaClassAndStructors(FSRoot, IOService);
 
 extern "C"
 {
-    // found in you file system kext, initializes the vfs table.
-    // NOTE: your fs ust set teh vfc_mountroot callback
+    // found in your file system kext, initializes the vfs table.
+    // NOTE: your fs must set the vfc_mountroot callback.
     int fs_init_module();
     
     // Lets this kext know if we should setup a dummy block device (/dev/md0)
