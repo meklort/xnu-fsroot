@@ -75,9 +75,9 @@ bool FSRoot::start(IOService *provider)
     // The IOBSD service is publiched after vfsinit is called,
     // since we cannot inject the vfs code before that (panic), we need to wait.
     // IOBSD is a good service to wait for since we can use public apis to do it
-    printf("ZFSRoot: Wating for IOBSD servevice.\n");
+    printf("FSRoot: Waiting for IOBSD service.\n");
     while(WaitForMatchingResource("IOBSD", 10000) == FALSE);
-    printf("ZFSRoot: IOBSD Found.\n");
+    printf("FSRoot: IOBSD Found.\n");
 
     fs_init_module();
     
