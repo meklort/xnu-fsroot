@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Release;
+		activeSDKPreference = macosx10.6;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* PostbootMounter */;
+		addToTargets = (
+			32D94FC30562CBF700B6AF17 /* PostbootMounter */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 27A5C63D108D332E00AE5720 /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					770,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					757,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					741,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309412495;
+			PBXWorkspaceStateSaveDate = 309412495;
+		};
+		perUserProjectItems = {
+			2722A3CF127142780025B853 = 2722A3CF127142780025B853 /* PBXTextBookmark */;
+			2722A3D0127142780025B853 = 2722A3D0127142780025B853 /* PBXTextBookmark */;
+			274DDBC71230AB7200C4B479 = 274DDBC71230AB7200C4B479 /* PBXTextBookmark */;
+			2760B24212714294003E0502 /* PBXTextBookmark */ = 2760B24212714294003E0502 /* PBXTextBookmark */;
+			2760B24312714294003E0502 /* PBXTextBookmark */ = 2760B24312714294003E0502 /* PBXTextBookmark */;
+			27952D91114BEC6F00D58801 = 27952D91114BEC6F00D58801 /* PlistBookmark */;
+			27CD3E7510EC5E6200503E0D = 27CD3E7510EC5E6200503E0D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27A5C63C108D332E00AE5720 /* Source Control */;
+		userBookmarkGroup = 27A5C62E108D332200AE5720 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {836, 212}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* PostbootMounter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {990, 650}}";
+			sepNavSelRange = "{105, 141}";
+			sepNavVisRange = "{0, 246}";
+			sepNavWindowFrame = "{{15, 0}, {1049, 778}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1293, 1391}}";
+			sepNavSelRange = "{2208, 0}";
+			sepNavVisRange = "{1948, 965}";
+			sepNavWindowFrame = "{{15, 0}, {1190, 778}}";
+		};
+	};
+	2722A3CF127142780025B853 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 94";
+		rLen = 0;
+		rLoc = 2208;
+		rType = 0;
+		vrLen = 980;
+		vrLoc = 1948;
+	};
+	2722A3D0127142780025B853 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 94";
+		rLen = 0;
+		rLoc = 2208;
+		rType = 0;
+		vrLen = 980;
+		vrLoc = 1948;
+	};
+	272F501B10E9C0A800E7FABB /* hfs_mount.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1118}}";
+			sepNavSelRange = "{3226, 0}";
+			sepNavVisRange = "{1820, 1406}";
+		};
+	};
+	272F506110E9C26900E7FABB /* sysproto.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 30121}}";
+			sepNavSelRange = "{814, 0}";
+			sepNavVisRange = "{1657, 837}";
+		};
+	};
+	274DDBA4122E237500C4B479 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 15";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	274DDBC71230AB7200C4B479 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* PostbootMounter.h */;
+		name = "PostbootMounter.h: 14";
+		rLen = 0;
+		rLoc = 246;
+		rType = 0;
+		vrLen = 246;
+		vrLoc = 0;
+	};
+	2760B24212714294003E0502 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 94";
+		rLen = 0;
+		rLoc = 2208;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 1948;
+	};
+	2760B24312714294003E0502 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 94";
+		rLen = 0;
+		rLoc = 2208;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 1948;
+	};
+	27952D91114BEC6F00D58801 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			IOKitPersonalities,
+		);
+		name = "/Users/meklort/SourceCode/netbook-installer/PostbootMounter/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	27A5C62E108D332200AE5720 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			27A5CCF9108EB7BE00AE5720 /* PBXTextBookmark */,
+			274DDBA4122E237500C4B479 /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	27A5C63C108D332E00AE5720 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = NetbookInstaller;
+			};
+		};
+	};
+	27A5C63D108D332E00AE5720 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27A5CCF9108EB7BE00AE5720 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */;
+		name = "PostbootMounter.cpp: 34";
+		rLen = 0;
+		rLoc = 2186;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 238;
+	};
+	27CD3E7510EC5E6200503E0D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 272F506110E9C26900E7FABB /* sysproto.h */;
+		name = "sysproto.h: 17";
+		rLen = 0;
+		rLoc = 814;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 1657;
+	};
+	32D94FC30562CBF700B6AF17 /* PostbootMounter */ = {
+		activeExec = 0;
+	};
+}

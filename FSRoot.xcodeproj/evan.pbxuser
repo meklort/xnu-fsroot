@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* PostbootMounter */;
+		codeSenseManager = 206F276F1379782F00A65302 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326727696;
+			PBXWorkspaceStateSaveDate = 326727696;
+		};
+		perUserProjectItems = {
+			206F27C5137982AA00A65302 /* PBXTextBookmark */ = 206F27C5137982AA00A65302 /* PBXTextBookmark */;
+			206F27C6137982AA00A65302 /* XCBuildMessageTextBookmark */ = 206F27C6137982AA00A65302 /* XCBuildMessageTextBookmark */;
+			206F27D6137982AA00A65302 /* PBXTextBookmark */ = 206F27D6137982AA00A65302 /* PBXTextBookmark */;
+			206F27DC137982AA00A65302 /* PBXTextBookmark */ = 206F27DC137982AA00A65302 /* PBXTextBookmark */;
+			206F27E2137982AA00A65302 /* PBXTextBookmark */ = 206F27E2137982AA00A65302 /* PBXTextBookmark */;
+			206F27E8137982AA00A65302 /* PBXTextBookmark */ = 206F27E8137982AA00A65302 /* PBXTextBookmark */;
+			206F27FC13798A7C00A65302 /* PBXTextBookmark */ = 206F27FC13798A7C00A65302 /* PBXTextBookmark */;
+			206F27FF13798A7C00A65302 /* PBXTextBookmark */ = 206F27FF13798A7C00A65302 /* PBXTextBookmark */;
+			206F280113798A7C00A65302 /* PBXTextBookmark */ = 206F280113798A7C00A65302 /* PBXTextBookmark */;
+			206F280313798A7C00A65302 /* PBXTextBookmark */ = 206F280313798A7C00A65302 /* PBXTextBookmark */;
+			206F280513798A7C00A65302 /* PBXTextBookmark */ = 206F280513798A7C00A65302 /* PBXTextBookmark */;
+			206F280713798A7C00A65302 /* PBXTextBookmark */ = 206F280713798A7C00A65302 /* PBXTextBookmark */;
+			206F280913798A7C00A65302 /* PBXTextBookmark */ = 206F280913798A7C00A65302 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 206F276E1379782F00A65302 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* PostbootMounter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 555}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 427}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* PostbootMounter.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 2054}}";
+			sepNavSelRange = "{96, 22}";
+			sepNavVisRange = "{0, 1108}";
+			sepNavWindowFrame = "{{167, 12}, {981, 708}}";
+		};
+	};
+	206F276E1379782F00A65302 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	206F276F1379782F00A65302 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	206F27C5137982AA00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 272F501B10E9C0A800E7FABB /* hfs_mount.h */;
+		name = "hfs_mount.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 959;
+		vrLoc = 0;
+	};
+	206F27C6137982AA00A65302 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Sys/mount_internal.h: No such file or directory";
+		fRef = 272F506110E9C26900E7FABB /* sysproto.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 39;
+		rType = 1;
+	};
+	206F27D6137982AA00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F27D7137982AA00A65302 /* pe_init.c */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	206F27D7137982AA00A65302 /* pe_init.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = pe_init.c;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/pexpert/i386/pe_init.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 3640}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{338, 1575}";
+		};
+	};
+	206F27DC137982AA00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F27DD137982AA00A65302 /* boot_images.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	206F27DD137982AA00A65302 /* boot_images.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = boot_images.h;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/pexpert/i386/boot_images.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1911}}";
+			sepNavSelRange = "{5765, 14}";
+			sepNavVisRange = "{5243, 4521}";
+			sepNavWindowFrame = "{{84, 2}, {981, 708}}";
+		};
+	};
+	206F27E2137982AA00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F27E3137982AA00A65302 /* panic_image.c */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	206F27E3137982AA00A65302 /* panic_image.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = panic_image.c;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/osfmk/console/panic_image.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 35438}}";
+			sepNavSelRange = "{46, 17}";
+			sepNavVisRange = "{0, 3275}";
+		};
+	};
+	206F27E8137982AA00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F27E9137982AA00A65302 /* stat.h */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	206F27E9137982AA00A65302 /* stat.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stat.h;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/bsd/sys/stat.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 8151}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2326}";
+		};
+	};
+	206F27FC13798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 272F506110E9C26900E7FABB /* sysproto.h */;
+		name = "sysproto.h: 40";
+		rLen = 0;
+		rLoc = 1602;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 1549;
+	};
+	206F27FF13798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280013798A7C00A65302 /* boot.c */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	206F280013798A7C00A65302 /* boot.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = boot.c;
+		path = /Users/evan/SourceCode/chameleon/branches/meklort/i386/boot2/boot.c;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 8814}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1830}";
+			sepNavWindowFrame = "{{15, 0}, {981, 778}}";
+		};
+	};
+	206F280113798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280213798A7C00A65302 /* boot.c */;
+		name = "boot.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1830;
+		vrLoc = 0;
+	};
+	206F280213798A7C00A65302 /* boot.c */ = {
+		isa = PBXFileReference;
+		name = boot.c;
+		path = /Users/evan/SourceCode/chameleon/branches/meklort/i386/boot2/boot.c;
+		sourceTree = "<absolute>";
+	};
+	206F280313798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280413798A7C00A65302 /* pe_init.c */;
+		name = "pe_init.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1575;
+		vrLoc = 338;
+	};
+	206F280413798A7C00A65302 /* pe_init.c */ = {
+		isa = PBXFileReference;
+		name = pe_init.c;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/pexpert/i386/pe_init.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 3640}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{338, 1575}";
+			sepNavWindowFrame = "{{61, 23}, {981, 708}}";
+		};
+	};
+	206F280513798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280613798A7C00A65302 /* boot_images.h */;
+		name = "boot_images.h: 116";
+		rLen = 14;
+		rLoc = 5765;
+		rType = 0;
+		vrLen = 4521;
+		vrLoc = 5243;
+	};
+	206F280613798A7C00A65302 /* boot_images.h */ = {
+		isa = PBXFileReference;
+		name = boot_images.h;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/pexpert/i386/boot_images.h";
+		sourceTree = "<absolute>";
+	};
+	206F280713798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280813798A7C00A65302 /* panic_image.c */;
+		name = "panic_image.c: 1";
+		rLen = 17;
+		rLoc = 46;
+		rType = 0;
+		vrLen = 3275;
+		vrLoc = 0;
+	};
+	206F280813798A7C00A65302 /* panic_image.c */ = {
+		isa = PBXFileReference;
+		name = panic_image.c;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/osfmk/console/panic_image.c";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 35438}}";
+			sepNavSelRange = "{46, 17}";
+			sepNavVisRange = "{0, 3275}";
+			sepNavWindowFrame = "{{15, 0}, {981, 778}}";
+		};
+	};
+	206F280913798A7C00A65302 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 206F280A13798A7C00A65302 /* stat.h */;
+		name = "stat.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2326;
+		vrLoc = 0;
+	};
+	206F280A13798A7C00A65302 /* stat.h */ = {
+		isa = PBXFileReference;
+		name = stat.h;
+		path = "/Users/evan/SourceCode/xnu-1504.9.37/bsd/sys/stat.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 8151}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2326}";
+			sepNavWindowFrame = "{{38, 44}, {981, 708}}";
+		};
+	};
+	272F501B10E9C0A800E7FABB /* hfs_mount.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 959}";
+		};
+	};
+	272F506110E9C26900E7FABB /* sysproto.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 30030}}";
+			sepNavSelRange = "{1602, 0}";
+			sepNavVisRange = "{1549, 503}";
+			sepNavWindowFrame = "{{15, 0}, {981, 778}}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* PostbootMounter */ = {
+		activeExec = 0;
+	};
+}
